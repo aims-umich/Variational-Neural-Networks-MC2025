@@ -1,6 +1,5 @@
-# NERS590-vRNN
+# Variational Recurrent neural Networks (vRNN)
 
-## Abstract
 Uncertainty-aware power grid forecasting is essential for running a more resilient, cost-effective,
 and cleaner power grid of integrated nuclear and renewable energy systems, where decisions are
 made with a clearer view of potential outcomes. While Bayesian models offer a path to uncertainty
