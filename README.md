@@ -31,3 +31,5 @@ Each of the scripts to reproduce our results are available as Jupyter notebooks.
 The dataset necessary to run the grid_forecasting scripts is too large to store here, so it can be downloaded at: https://www.dropbox.com/scl/fi/exu3so0i1fghhg4dwp54m/PSML.csv?rlkey=r895e0nwbsc9c5jgaqiwmlpiw&st=8po4kxqb&dl=0
 
 Once the dataset is downloaded, store it as /scripts/grid_forecasting/dataset/PSML.csv to allow proper loading within the notebooks.
+
+Link to preprint: https://www.ans.org/meetings/mc2025/sessions/attachment/paper-12118/
