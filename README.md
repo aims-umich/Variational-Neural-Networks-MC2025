@@ -1,5 +1,6 @@
 # Development of Variational Neural Networks for Uncertainty Quantification of Nuclear Applications
 
+<div style="text-align: justify">
 Uncertainty-aware artificial intelligence (AI) and machine learning (ML) are essential for the safe
 and reliable deployment of neural-based methods in safety-critical engineering applications. The
 field of nuclear energy exhibits especially strict licensing and regulation, necessitating the development
@@ -13,6 +14,7 @@ assign probability distributions to parameters, allowing predictions to be sampl
 quantified. This study leverages previous progress in the development of VNNs and extends their
 abilities to predict the neutron distribution in the HOLOS-Quad 22MWt high-temperature gas-cooled
 microreactor using the angles of the 8 cylindrical control drums.
+</div>
 
 Further, we introduce the development and deployment of variational recurrent neural networks
 (VRNN) as a promising path towards integrating sensor data into AI/ML models for time-series
