@@ -24,11 +24,9 @@ This work demonstrates that variational inference provides a scalable, computati
 framework for real-time digital twins, with plans to apply the methodology to nuclear plant data in
 the near future.
 
-Keywords: Variational Inference, Feedforward Neural Networks, Recurrent Neural Networks,
-HTGR, Integrated Energy Systems
+Keywords: Variational Inference, Feedforward Neural Networks, Recurrent Neural Networks, HTGR, Integrated Energy Systems
 
-Each of the scripts to reproduce our results are available as Jupyter notebooks. Once each of scripts corresponding to the four models are run, the final plots can be obtained by running the notebooks inside scripts/results. The requirements.txt file is avaialable in /scripts to reconstruct the venv.
+Each of the scripts to reproduce our results are available as Jupyter notebooks. Once each of scripts corresponding to training and predicting with models are run, the final plots can be obtained by running the notebook(s) inside the 'results' folder of both scripts/grid_forecasting and scripts/htgr. Attempting to run any of the notebooks in the 'results' folders prior to running the notebooks inside 'variational' or 'deterministic' will results in a load error as the required csv will not yet exist. The requirements.txt file is avaialable in /scripts to reconstruct the venv.
 
-The dataset necessary to run these scripts is too large to store here, so it can be downloaded at: https://www.dropbox.com/scl/fi/exu3so0i1fghhg4dwp54m/PSML.csv?rlkey=r895e0nwbsc9c5jgaqiwmlpiw&st=8po4kxqb&dl=0
-
+The dataset necessary to run the grid_forecasting scripts is too large to store here, so it can be downloaded at: https://www.dropbox.com/scl/fi/exu3so0i1fghhg4dwp54m/PSML.csv?rlkey=r895e0nwbsc9c5jgaqiwmlpiw&st=8po4kxqb&dl=0
 Once the dataset is downloaded, store it as /scripts/dataset/PSML.csv to allow proper loading within the notebooks.
