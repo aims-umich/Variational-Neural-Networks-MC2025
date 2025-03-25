@@ -1,6 +1,9 @@
 # Development of Variational Neural Networks for Uncertainty Quantification of Nuclear Applications
 
-<div style="text-align: justify"> Uncertainty-aware artificial intelligence (AI) and machine learning (ML) are essential for the safe and reliable deployment of neural-based methods in safety-critical engineering applications. The field of nuclear energy exhibits especially strict licensing and regulation, necessitating the development and testing of uncertainty aware models before the industry is able to realize the full value of </div>
+Uncertainty-aware artificial intelligence (AI) and machine learning (ML) are essential for the safe
+and reliable deployment of neural-based methods in safety-critical engineering applications. The
+field of nuclear energy exhibits especially strict licensing and regulation, necessitating the development
+and testing of uncertainty-aware models before the industry is able to realize the full value of
 recent advances in AI/ML. While Bayesian models offer a path to uncertainty quantification, their
 high computational demands and poor scalability pose challenges for large datasets and real-time
 applications. This research introduces the development of variational neural networks (VNN) as
