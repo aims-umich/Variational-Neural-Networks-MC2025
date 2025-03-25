@@ -13,6 +13,7 @@ assign probability distributions to parameters, allowing predictions to be sampl
 quantified. This study leverages previous progress in the development of VNNs and extends their
 abilities to predict the neutron distribution in the HOLOS-Quad 22MWt high-temperature gas-cooled
 microreactor using the angles of the 8 cylindrical control drums.
+
 Further, we introduce the development and deployment of variational recurrent neural networks
 (VRNN) as a promising path towards integrating sensor data into AI/ML models for time-series
 forecasting of future system states and associated uncertainties. We use a custom loss function in
